@@ -4,6 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
+      <title>api frontend</title>
       <body>
         <Main />
         <NextScript />
