@@ -10,7 +10,7 @@ export const NavBar = () => {
         <div>
             <ul className=' flex gap-3'>
                 <li><Link href={"https://portafolio-umber-eight.vercel.app/"} className='hover:text-gray-400'>Sobre mí</Link></li>
-                <li><Link href={"/"} className='hover:text-gray-400'>Repositorio</Link></li>
+                <li><Link href={"https://github.com/PedroSanch3z/api-nestjs-frontend"} className='hover:text-gray-400'>Repositorio</Link></li>
                 <li><Link href={"https://www.linkedin.com/in/pedro-sanchez-4784b029a"} className='hover:text-gray-400'>Linkedin</Link></li>
             </ul>
         </div>
